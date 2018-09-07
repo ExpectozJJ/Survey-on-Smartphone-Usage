@@ -1,3 +1,5 @@
+#ANOVA code for PSQI Data
+
 survey = read.csv('PSQI.csv')
 
 PSQIGlobal = survey$PSQIGlobal
