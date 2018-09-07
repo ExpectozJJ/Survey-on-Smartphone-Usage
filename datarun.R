@@ -1,4 +1,4 @@
-survey = read.csv('D:/OneDrive for Business/Lecture Notes Y3S2/HW0228/PSQI.csv')
+survey = read.csv('PSQI.csv')
 
 PSQIGlobal = survey$PSQIGlobal
 PSQIDURAT = survey$PSQIDURAT
